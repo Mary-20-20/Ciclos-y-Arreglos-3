@@ -1,7 +1,6 @@
 # Sentencias-condicionales-2
 Codigo en Python bmi
 
-
 def calcular_BMI (peso, estatura):
     bmi = peso / estatura ** 2
     return bmi
