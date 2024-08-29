@@ -1,4 +1,4 @@
-# Sentencias-condicionales-2
+# Ciclos y Arreglos 2
 Codigo en Python bmi
 
 def calcular_BMI (peso, estatura):
