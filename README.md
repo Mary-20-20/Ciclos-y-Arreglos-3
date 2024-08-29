@@ -1,4 +1,5 @@
 # Ciclos y Arreglos 3
+Codigo 1 de ciclos y arreglos en Python
 
 def calcular_BMI (peso, estatura):
     bmi = peso / estatura ** 2
